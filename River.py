@@ -1,3 +1,4 @@
+# This program is not mine this belongs to ConnorM160 on github this was the original concept C:
 import time
 message = input("What is your favorite fish on the red river??")
 if message == "Catfish":
